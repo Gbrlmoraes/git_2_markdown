@@ -1,5 +1,7 @@
 # Git to Markdown
 
+> 🎸 **Vibe Coding Project** - This is a fun experimental project to test some features and create a simple tool that could be useful in future projects. Built with good vibes and curiosity!
+
 Convert Git repositories into a single Markdown file suitable for LLM consumption.
 
 ## Features
@@ -209,10 +211,15 @@ The tool automatically detects and includes common text-based files:
 - `ruff>=0.4.0` - Linting and formatting
 - `mypy>=1.10.0` - Type checking
 
-## License
-
-MIT License - see LICENSE file for details.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+---
+
+## Vibe Code Specification
+
+| Tool | Version |
+|------|---------|
+| **IDE** | VSCode with Copilot PRO |
+| **Model** | Claude Opus 4.5 |
